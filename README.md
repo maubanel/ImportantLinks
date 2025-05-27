@@ -12,3 +12,9 @@
 ## Digital Twins
 ### PFT
 * [Documentation](https://docs.google.com/document/d/1jZnCb1MElpZkCt8kGkR8Ux6g7avtfw0zbUGDXuPU5NQ/edit?tab=t.0)
+
+## Tailwind Videos
+* [Video 3](https://www.youtube.com/watch?v=soFSSkf4oVY)
+* [Video 4](https://www.youtube.com/watch?v=v9nHYcKeBw0)
+* [Video 5](https://www.youtube.com/watch?v=7d0qmca5kzc)
+* 
